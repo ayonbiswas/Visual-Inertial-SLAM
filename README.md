@@ -1,5 +1,3 @@
-# Visual-Inertial-SLAM
-
 # ECE276A Project 3 : Visual Inertial SLAM
 
 Description
