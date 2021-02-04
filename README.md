@@ -12,6 +12,10 @@ Code organization
 
 *output -- contains outputs for all the datasets. DS_10 in output name means downsampling features by 10
 
+Results
+=======
+<img src="output/0022_DS_25.png" width="500">
+
 Datasets
 ========
 The dataset was provided with the starter code.
