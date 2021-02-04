@@ -14,8 +14,9 @@ Code organization
 
 Results
 =======
-<img src="output/0022_DS_25.png" width="300">
-<img src="output/0027_DS_25.png" width="300">
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="output/0022_DS_25.png" width="300"> | <img src="output/0027_DS_25.png" width="300">
 
 Datasets
 ========
